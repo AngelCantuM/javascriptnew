@@ -1,14 +1,14 @@
-var questionOne = prompt("What is your name?");
+var questionOne = prompt("What is your nickname?");
  document.getElementById("blankOne").innerHTML = questionOne;
 
- var questionOne = prompt("Please enter the secret phrase. I know... I know.. you have no idea... That's ok, just guess!");
+ var questionOne = prompt(" Type your dad's name here ");
  document.getElementById("blankTwo").innerHTML = questionOne;
 
- var questionOne = prompt("Another popup... I know I hate these too!!  Although, your secret phrase was not nice enough.. please enter your favorite thing ");
+ var questionOne = prompt(" Please enter your favorite curse word ");
  document.getElementById("blankThree").innerHTML = questionOne + '!!' ;
 
 
- var questionOne = prompt("Seriously .. too much I know this is not fun anymore.  Sorry.. but if you could please just guess and enter the correct amount of explamation points.. we will end this madness. ");
+ var questionOne = prompt(" Enter any random noun thank! ");
  document.getElementById("blankFour").innerHTML = questionOne ;
 
 
